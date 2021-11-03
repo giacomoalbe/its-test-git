@@ -6,3 +6,4 @@ Sono un bel file di testo xD xD xD
 Solo nel branch prova
 
 Aggiunto da una seconda cartella
+Io sono più migliore di test-git
