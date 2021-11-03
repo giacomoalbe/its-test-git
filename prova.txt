@@ -7,3 +7,4 @@ Solo nel branch prova
 
 Aggiunto da una seconda cartella
 Come è bello conflittare
+Io sono più migliore di test-git
